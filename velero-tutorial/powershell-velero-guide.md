@@ -18,7 +18,7 @@ Below are the things you need to check before practicing velero:
 * kuberctl CLI installed
 * Azure CLI for Micsrosoft Azure
 
-**Note:** We will be using powershell related commands. If you are using linux, feel free to convert them accordingly. Also, we are using Azure Kubernetes Service for backup with Velero.
+**Note:** We will be using powershell related commands. If you are using linux, check this file [Linux Velero Guide](./linux-velero-guide.md). . Also, we are using Azure Kubernetes Service for backup with Velero.
 
 ## Instal Velero CLI
 
