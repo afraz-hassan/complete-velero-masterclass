@@ -49,7 +49,7 @@ Verify the Installation
 velero --help
 ```
 
-## Create Storage in Azure or AWS for Backups
+## Create Storage in Azure for Backups
 
 Now, we'll create a storage account in Azure. Keep in ming that Velero will take backup and it will store those backups in this storage. Normally, Azure Blob Storage is used for such backups.
 
